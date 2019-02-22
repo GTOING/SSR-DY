@@ -2,7 +2,7 @@
 
 # Other VPN
 
-## TaiWanLT
+## GCPself
 ssr://MzQuODAuMTAuMjA3OjEyMzQxOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpXRFE0TVRZMU5qTS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVZLXc1cm0tNkxDMzVxMk01THFSS09pQmxPbUFtdS04aVEmZ3JvdXA9
 
 ## SSR Tool
